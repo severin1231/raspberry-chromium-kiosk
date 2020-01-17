@@ -33,7 +33,7 @@ sudo echo "
 #!/bin/bash
 while true; do
         sleep $((60*$REFRESH_MIN))
-        xdotool key "ctrl+r"
+        xdotool key \"ctrl+r\"
 done
 " > /home/pi/reload.sh
 sudo chmod  /home/pi/reload.sh
