@@ -18,7 +18,7 @@
 #### Variables
 ###############################
 URL="https://www.linux.org/"
-REFRESH_MIN="2"			        # Don't use floating-point number. Example: Use 2/4*3 instead of 1.5 
+REFRESH_MIN="2"			        # Don't use floating-point number. Example: Use 3/2 or 1/2*3 instead of 1.5 
 ###############################
 
 
